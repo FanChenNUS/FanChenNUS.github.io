@@ -23,7 +23,7 @@ repository               : "FanChenNUS/FanChenNUS.github.io"
 author:
   # Biographic information
   avatar           : "/images/face_photo.jpg"
-  name             : "Fan Chen"
+  name             : "Fan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
