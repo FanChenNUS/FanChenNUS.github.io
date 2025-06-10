@@ -26,7 +26,7 @@ author:
   name             : "Fan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D"
-  location         : "Bât. B52/3 Bureau +1/447 | Département Argenco : Secteur MS2F | Quartier Polytech 1 | allée de la Découverte 9 | 4000 Liège 1 | Belgique"
+  location         : "Quartier Polytech 1 | allée de la Découverte 9 | 4000 Liège 1 | Belgique"
   employer         : "National University of Singapore"
   uri              : # URL
   email            : "e0348805@u.nus.edu" 
@@ -38,20 +38,20 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2823-6667"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Fan-Chen-51?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/fan-chen-75956b23b/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
