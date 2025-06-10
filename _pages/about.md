@@ -14,7 +14,7 @@ Academic experience
 
 He previously completed a prestigious postdoctoral fellowship at Northwestern University under Prof. Jian Cao as part of the Vannevar Bush Faculty Fellowship program, working on autonomous hybrid manufacturing systems and micro-casting technologies. Dr. Chen earned his Ph.D. from the National University of Singapore, where he pioneered multi-physics simulation strategies for additive manufacturing, including a high-fidelity coupling of CFD and FEM models for laser-based processes. He has collaborated with ANSYS, A*STAR Singapore, Shanghai Jiaotong University, and Nissan.
 
-Publication introduction
+Publication overview
 ======
 
 Dr. Chen has published over 15 peer-reviewed articles in top-tier journals including Computer Methods in Applied Mechanics and Engineering, npj Computational Materials, Materials Today, and Advanced Science. His research has won multiple distinctions, such as the NAMRC 53 Outstanding Paper Award and the 2022 Materials Research Letters Impact Award.
