@@ -22,7 +22,7 @@ repository               : "FanChenNUS/FanChenNUS.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/face_photo.jpg"
+  avatar           : "face_photo.jpg"
   name             : "Fan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
