@@ -23,9 +23,9 @@ repository               : "FanChenNUS/FanChenNUS.github.io"
 author:
   # Biographic information
   avatar           : "face_photo.jpg"
-  name             : "Fan"
+  name             : "Fan Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D"
   location         : "Bât. B52/3 Bureau +1/447 | Département Argenco : Secteur MS2F | Quartier Polytech 1 | allée de la Découverte 9 | 4000 Liège 1 | Belgique"
   employer         : "National University of Singapore"
   uri              : # URL
