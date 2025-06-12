@@ -20,11 +20,11 @@ Coupled CFD-FEM simulation -- LPBF & DED
 </p>
 
 <p align="center">
-  <img src="/images/CFD-FEM3.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+  <img src="/images/CFD-FEM4.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
-  <img src="/images/CFD-FEM4.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+  <img src="/images/CFD-FEM3.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
 Research interest
