@@ -11,37 +11,44 @@ Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher 
 
 Main Research Topics (published)
 ====
-Coupled CFD-FEM modeling for AM [Fan Chen... - Materials & Design, 2020](https://doi.org/10.1016/j.matdes.2020.109185)
+Coupled CFD-FEM modeling for AM 
+[Fan Chen... - Materials & Design, 2020](https://doi.org/10.1016/j.matdes.2020.109185)
 <p align="center">
   <img src="/images/CFD-FEM1.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
-Origin of dislocation density in AM [G Wang,...,Fan Chen... - Materials Research Letters, 2020](https://doi.org/10.1080/21663831.2020.1751739)
+Origin of dislocation density in AM 
+[G Wang,...,Fan Chen... - Materials Research Letters, 2020](https://doi.org/10.1080/21663831.2020.1751739)
 <p align="center">
   <img src="/images/CFD-FEM3.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
-4D metal-based printing [Wu, W.,...,Fan Chen... - Advanced Science 2023](https://doi.org/10.1002/advs.202206486)
+4D metal-based printing 
+[Wu, W.,...,Fan Chen... - Advanced Science 2023](https://doi.org/10.1002/advs.202206486)
 <p align="center">
   <img src="/images/4Dprinting.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
-Data-driven motlen pool temperature field prediction with rational physic constraints [F Chen... - CMAME, 2022](hhttps://doi.org/10.1016/j.cma.2022.114652)
+Data-driven temperature field prediction with rational physic constraints 
+[F Chen... - CMAME, 2022](https://doi.org/10.1016/j.cma.2022.114652)
 <p align="center">
   <img src="/images/data-driven.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
-Heat accumulation analysis for samples clusters (over 100 AM samples) [Fan Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2024.12.0579)
+Heat accumulation analysis for samples clusters (over 100 AM samples) 
+[Fan Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2024.12.0579)
 <p align="center">
   <img src="/images/equivalent heat flux attribution.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
-Incremetnal sheet metal forming - English wheel [D Suarez, Fan Chen...- Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2024.04.022)
+Incremetnal sheet metal forming - English wheel 
+[D Suarez, Fan Chen...- Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2024.04.022)
 <p align="center">
   <img src="/images/English wheel.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
-Incremetnal sheet metal forming - DED on sheet metal [F Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2025.03.120)
+Incremetnal sheet metal forming - DED on sheet metal 
+[F Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2025.03.120)
 <p align="center">
   <img src="/images/DED on sheet metal.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
