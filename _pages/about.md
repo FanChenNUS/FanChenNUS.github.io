@@ -66,7 +66,7 @@ incremetnal sheet metal forming - DED on sheet metal
 Ongoing works
 ======
 <p align="center">
-  <img src="/images/Self-boiling molds.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+  <img src="/images/self-boiling molds.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
@@ -74,11 +74,11 @@ Ongoing works
 </p>
 
 <p align="center">
-  <img src="/images/slides1.jpg" alt="Poster description" style="max-width: 100%; height: auto;">
+  <img src="/images/Slide1.jpg" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
-  <img src="/images/slides2.jpg" alt="Poster description" style="max-width: 100%; height: auto;">
+  <img src="/images/Slide2.jpg" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
 
