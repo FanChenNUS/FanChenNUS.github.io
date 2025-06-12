@@ -9,15 +9,28 @@ redirect_from:
 
 Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher with cross-disciplinary expertise in additive manufacturing, AI-integrated modeling, and high-performance simulation. Currently a Research Scientist at the University of Liège funded by the European Union, he leads work on AI-powered characterization and modeling for green steel technology in collaboration with Fraunhofer, IWM, and IMDEA. His recent work involves implementing visco-plasticity laws in Lagamine and developing creep models for metallic systems.
 
-Academic experience
-======
-
-He previously completed a prestigious postdoctoral fellowship at Northwestern University under Prof. Jian Cao as part of the Vannevar Bush Faculty Fellowship program, working on autonomous hybrid manufacturing systems and micro-casting technologies. Dr. Chen earned his Ph.D. from the National University of Singapore, where he pioneered multi-physics simulation strategies for additive manufacturing, including a high-fidelity coupling of CFD and FEM models for laser-based processes. He has collaborated with ANSYS, A*STAR Singapore, Shanghai Jiaotong University, and Nissan.
-
+Coupled CFD-FEM simulation -- LPBF & DED
+====
 <p align="center">
   <img src="/images/CFD-FEM1.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
+<p align="center">
+  <img src="/images/CFD-FEM2.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="/images/CFD-FEM3.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="/images/CFD-FEM4.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+Research interest
+======
+
+He previously completed a prestigious postdoctoral fellowship at Northwestern University under Prof. Jian Cao as part of the Vannevar Bush Faculty Fellowship program, working on autonomous hybrid manufacturing systems and micro-casting technologies. Dr. Chen earned his Ph.D. from the National University of Singapore, where he pioneered multi-physics simulation strategies for additive manufacturing, including a high-fidelity coupling of CFD and FEM models for laser-based processes. He has collaborated with ANSYS, A*STAR Singapore, Shanghai Jiaotong University, and Nissan.
 
 Publication overview
 ======
