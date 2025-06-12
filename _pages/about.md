@@ -9,8 +9,9 @@ redirect_from:
 
 Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher with cross-disciplinary expertise in additive manufacturing, AI-integrated modeling, and high-performance simulation. Currently a Research Scientist at the University of Liège funded by the European Union, he leads work on AI-powered characterization and modeling for green steel technology in collaboration with Fraunhofer, IWM, and IMDEA. His recent work involves implementing visco-plasticity laws in Lagamine and developing creep models for metallic systems.
 
-Coupled CFD-FEM simulation -- LPBF & DED
+High-fidelity coupled CFD-FEM simulation of AM -- LPBF & DED
 ====
+
 <p align="center">
   <img src="/images/CFD-FEM1.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
@@ -27,18 +28,52 @@ Coupled CFD-FEM simulation -- LPBF & DED
   <img src="/images/CFD-FEM3.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
-Research interest
+4D printing
 ======
+<p align="center">
+  <img src="/images/4Dprinting.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
 
-He previously completed a prestigious postdoctoral fellowship at Northwestern University under Prof. Jian Cao as part of the Vannevar Bush Faculty Fellowship program, working on autonomous hybrid manufacturing systems and micro-casting technologies. Dr. Chen earned his Ph.D. from the National University of Singapore, where he pioneered multi-physics simulation strategies for additive manufacturing, including a high-fidelity coupling of CFD and FEM models for laser-based processes. He has collaborated with ANSYS, A*STAR Singapore, Shanghai Jiaotong University, and Nissan.
-
-Publication overview
+Colding cracking in AM
 ======
+<p align="center">
+  <img src="/images/mutli-scale cracking.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
 
-Dr. Chen has published over 15 peer-reviewed articles in top-tier journals including Computer Methods in Applied Mechanics and Engineering, npj Computational Materials, Materials Today, and Advanced Science. His research has won multiple distinctions, such as the NAMRC 53 Outstanding Paper Award and the 2022 Materials Research Letters Impact Award.
-
-Skills
+Data-driven temperature field prediction
 ======
+<p align="center">
+  <img src="/images/data-driven.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="/images/equivalent heat flux attribution.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+incremetnal sheet metal forming - English wheel
+======
+<p align="center">
+  <img src="/images/English wheel.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+incremetnal sheet metal forming - DED on sheet metal
+======
+<p align="center">
+  <img src="/images/DED on sheet metal.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+
+Ongoing works
+======
+<p align="center">
+  <img src="/images/Self-boiling molds.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="/images/equivalent strain attribution.gif" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+
 
 His technical strengths include advanced numerical simulation (ABAQUS, COMSOL, FLOW-3D), programming (Fortran, Python, MATLAB), and multi-scale modeling for process–structure–property relationships in manufacturing. He also has experience teaching mechanics and materials science at NUS and mentoring students on computational mechanics.
 
