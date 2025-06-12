@@ -73,6 +73,13 @@ Ongoing works
   <img src="/images/equivalent strain attribution.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
 
+<p align="center">
+  <img src="/images/slides1.jpg" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="/images/slides2.jpg" alt="Poster description" style="max-width: 100%; height: auto;">
+</p>
 
 
 His technical strengths include advanced numerical simulation (ABAQUS, COMSOL, FLOW-3D), programming (Fortran, Python, MATLAB), and multi-scale modeling for process–structure–property relationships in manufacturing. He also has experience teaching mechanics and materials science at NUS and mentoring students on computational mechanics.
