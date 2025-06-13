@@ -9,8 +9,8 @@
 
 main:
   
-  - title: "Academic experience"
-    url: /markdown/
+  - title: "Projects"
+    url: /portfolio/
   
   - title: "Publications"
     url: /publications/
