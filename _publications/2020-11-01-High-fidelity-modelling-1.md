@@ -2,7 +2,7 @@
 title: "High-fidelity modelling of thermal stress for additive manufacturing by linking thermal-fluid and mechanical models"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-11-01-paper-title-number-1
+permalink: /publication/2020-11-01-High-fidelity-modelling-1
 excerpt: 'incorporating melt pool evolution, solidification, and re-melting.'
 date: 2020-11-01
 venue: 'Journal 1'
@@ -13,11 +13,5 @@ citation: 'Chen, F., & Yan, W. (2020). High-fidelity modelling of thermal stress
 
 A high-fidelity CFD-FEM approach is developed to simulate thermal stress in additive manufacturing, incorporating melt pool evolution, solidification, and re-melting.
 
-<a href="http://FanChenNUS.github.io/files/slides2.pptx" download>Download slides</a>
+[doi link](https://doi.org/10.1016/j.matdes.2020.109185)
 
-<iframe 
-  src="https://view.officeapps.live.com/op/embed.aspx?src=http://FanChenNUS.github.io/files/slides2.pptx" 
-  width="100%" 
-  height="600px" 
-  frameborder="0">
-</iframe>
