@@ -2,7 +2,7 @@
 title: "High-fidelity modelling of thermal stress for additive manufacturing by linking thermal-fluid and mechanical models"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-11-01-paper-title-number-1
 excerpt: 'incorporating melt pool evolution, solidification, and re-melting.'
 date: 2020-11-01
 venue: 'Journal 1'
