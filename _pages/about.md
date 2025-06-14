@@ -131,3 +131,12 @@ Ongoing works
 </p>
 
 --------------------------------------------------------------------------------------------------------
+
+
+<hr>
+<div style="margin-top: 1em;">
+  <strong>Share this page:</strong><br>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url }}" target="_blank">LinkedIn</a> |
+  <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}" target="_blank">Twitter</a> |
+  <a href="mailto:?subject=Check%20this%20academic%20site&body={{ site.url }}{{ page.url }}">Email</a>
+</div>
