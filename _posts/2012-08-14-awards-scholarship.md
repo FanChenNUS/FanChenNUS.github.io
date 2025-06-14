@@ -11,8 +11,11 @@
 
 ## Reviewer for Journals:
 2024 Additive Manufacturing 
-2024 Journal of Materials Processing Tech 
+
+2024 Journal of Materials Processing Tech
+
 2023 Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers 
+
 2022 Smart Manufacturing
 
 ## Fundings, scholarship and awards
