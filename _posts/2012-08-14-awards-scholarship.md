@@ -20,7 +20,7 @@ title: ""
 
 ## MAJOR SKILLS
 
-Chinese, English, French (A1, A1+, A2 level passed)
+Chinese, English, French ([A1]({{ site.baseurl }}/images/French/Attestation%20A1%20CHEN%20Fan.pdf), [A1+]({{ site.baseurl }}/images/French/Attestation%20A1p%20CHEN%20Fan.pdf), [A2]({{ site.baseurl }}/images/French/Attestation%20A2%20CHEN%20Fan.pdf) level passed)
 
 Software: ABAQUS (User subroutines), COMSOL Multiphysics, FLOW 3D
 
