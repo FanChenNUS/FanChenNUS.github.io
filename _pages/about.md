@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="/images/Featured_picture.jpg" alt="Poster description" style="max-width: 50%; height: auto;">
+</p>
+
 Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher with cross-disciplinary expertise in additive manufacturing, AI-integrated modeling, and high-performance simulation. Currently a Research Scientist at the University of Liège funded by the European Union, he leads work on AI-powered characterization and modeling for green steel technology in collaboration with Fraunhofer, IWM, and IMDEA. His recent work involves implementing visco-plasticity laws in Lagamine and developing creep models for metallic systems.
 
 His technical strengths include advanced numerical simulation (ABAQUS, COMSOL, FLOW-3D), programming (Fortran, Python, MATLAB), and multi-scale modeling for process–structure–property relationships in manufacturing. He also has experience teaching mechanics and materials science at NUS and mentoring students on computational mechanics.
 
-
 MAJOR SKILLS
-====
 --------------------------------------------------------------------------------------------------------
 •	Chinese, English, French (A1, A1+, A2 level passed)
 
