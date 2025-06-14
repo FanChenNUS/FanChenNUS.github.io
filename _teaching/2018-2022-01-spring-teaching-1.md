@@ -1,5 +1,5 @@
 ---
-title: "2018-2022"
+title: "From 2018 to 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-2022-01-spring-teaching-1
@@ -10,6 +10,6 @@ location: "City, Country"
 
 2018-2022, Department of Mechanical Engineering, National University of Singapore
 ------------------------------------------------------------------------------------
-o	ME1102 - Engineering Principles and Practice I
-o	ME2112 - Strength of Materials 
-o	ME2115 - Mechanics of Machines: Vibration Lab
+ -ME1102 - Engineering Principles and Practice I
+ -ME2112 - Strength of Materials 
+ -ME2115 - Mechanics of Machines: Vibration Lab
