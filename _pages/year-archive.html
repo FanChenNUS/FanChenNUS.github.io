@@ -11,10 +11,8 @@ redirect_from:
 
 {% for post in site.posts %}
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify }}
-      </p>
-    {% endif %}
+    <div class="archive__item-content" itemprop="text">
+      {{ post.content | markdownify }}
+    </div>
   </article>
 {% endfor %}
