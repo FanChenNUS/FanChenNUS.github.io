@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-## Reviewer for Journals:
+<!-- ## Reviewer for Journals
 
 2024 Additive Manufacturing
 
@@ -16,7 +16,7 @@ tags:
 
 2023 Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers
 
-2022 Smart Manufacturing
+2022 Smart Manufacturing -->
 
 ## MAJOR SKILLS
 
