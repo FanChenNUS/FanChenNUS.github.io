@@ -41,7 +41,7 @@ Singapore research scholarship,
 -in National University of Singapore
 
 Internship  
-- Agency for Science, Technology and Research (A*STAR) in Singapore - [display board](https://www.a-star.edu.sg/ihpc/internship/chen-fan)
+-Agency for Science, Technology and Research (A*STAR) in Singapore - [display board](https://www.a-star.edu.sg/ihpc/internship/chen-fan)
 
 ### 2015-2018
 "China Graduate Scholarship",  
