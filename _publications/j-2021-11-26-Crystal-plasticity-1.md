@@ -3,7 +3,7 @@ title: "Crystal plasticity model of residual stress in additive manufacturing us
 collection: publications
 category: manuscripts
 permalink: /publication/j-2021-11-26-Crystal-plasticity-1
-# excerpt: ''
+excerpt: 'Computational Solid Mechanics; Materials Mechanics; Microengraving; Solid Mechanics; Laser Material Processing; Materials Engineering'
 date: 2021-11-26
 venue: 'Computational Mechanics'
 # slidesurl: ''

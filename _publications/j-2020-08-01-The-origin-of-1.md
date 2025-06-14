@@ -3,7 +3,7 @@ title: "The origin of high-density dislocations in additively manufactured metal
 collection: publications
 category: manuscripts
 permalink: /publication/j-2020-08-01-The-origin-of-1
-# excerpt: 'Additive manufacturing; Cu; microstructure dislocation; multi-physics modeling'
+excerpt: 'Additive manufacturing; Cu; microstructure dislocation; multi-physics modeling'
 date: 2020-08-01
 venue: 'Materials Research Letters'
 # slidesurl: ''

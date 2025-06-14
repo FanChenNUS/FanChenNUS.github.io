@@ -3,7 +3,7 @@ title: "Data-driven prediction of keyhole features in metal additive manufacturi
 collection: publications
 category: manuscripts
 permalink: /publication/j-2020-11-01-Data-driven-prediction-1
-# excerpt: 'Computational Materials Science; Computer Modelling; Computational Science and Engineering; Data-driven Science; Modeling and Theory Building Machining; Laser Material Processing'
+excerpt: 'Computational Materials Science; Computer Modelling; Computational Science and Engineering; Data-driven Science; Modeling and Theory Building Machining; Laser Material Processing'
 date: 2023-06-16
 venue: 'Journal of Intelligent Manufacturing'
 # slidesurl: ''

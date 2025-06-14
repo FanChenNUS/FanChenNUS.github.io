@@ -3,7 +3,7 @@ title: "Enhanced strengthening and hardening via self-stabilized dislocation net
 collection: publications
 category: manuscripts
 permalink: /publication/j-2021-11-01-Enhanced-strengthening-1
-# excerpt: ''
+excerpt: 'Additive manufacturing; Metal Strength; Ductility'
 date: 2021-11-01
 venue: 'Materials Today'
 # slidesurl: ''

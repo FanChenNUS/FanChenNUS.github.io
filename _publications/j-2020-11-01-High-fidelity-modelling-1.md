@@ -3,7 +3,7 @@ title: "High-fidelity modelling of thermal stress for additive manufacturing by 
 collection: publications
 category: manuscripts
 permalink: /publication/j-2020-11-01-High-fidelity-modelling-1
-# excerpt: 'Additive manufacturing; Finite elementQuiet element; method; Mapping; Thermal stress; Molten pool; Thermal-fluid flow'
+excerpt: 'Additive manufacturing; Finite elementQuiet element; method; Mapping; Thermal stress; Molten pool; Thermal-fluid flow'
 date: 2020-11-01
 venue: 'Materials & Design'
 # slidesurl: ''

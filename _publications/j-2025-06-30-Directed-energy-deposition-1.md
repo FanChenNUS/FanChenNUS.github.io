@@ -3,7 +3,7 @@ title: "Directed energy deposition on sheet metal forming for reinforcement stru
 collection: publications
 category: manuscripts
 permalink: /publication/j-2025-06-30-Directed-energy-deposition-1
-# excerpt: ''
+excerpt: 'Additive manufacturing; Directed energy deposition; Thermal distortion; Incremental forming; Finite element method; Residual stress'
 date: 2025-06-30
 venue: 'Journal of Manufacturing Processes'
 # slidesurl: ''
