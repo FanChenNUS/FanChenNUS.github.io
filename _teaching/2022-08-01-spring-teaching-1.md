@@ -1,9 +1,9 @@
 ---
 title: "From 2022 to 2025"
 collection: teaching
-# type: "Undergraduate course"
+type: "Student superviosion"
 permalink: /teaching/2022-08-01-spring-teaching-1
-venue: "Department of Mechanical Engineering, National University of Singapore"
+# venue: "Department of Mechanical Engineering, National University of Singapore"
 # date: 2022-08-01
 # location: "City, Country"
 ---
