@@ -3,7 +3,7 @@ title: "Efficient Representative Volume Element of a Matrix–Precipitate Micros
 collection: publications
 category: manuscripts
 permalink: /publication/j-2024-11-01-Efficient-Representative-1
-excerpt: ''
+# excerpt: ''
 date: 2024-11-01
 venue: 'Metals'
 # slidesurl: ''

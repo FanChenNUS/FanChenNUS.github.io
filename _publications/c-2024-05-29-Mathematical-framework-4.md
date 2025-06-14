@@ -3,9 +3,9 @@ title: "Mathematical framework for a semi-physical model for the prediction of c
 collection: publications
 category: conferences
 permalink: /publication/c-2024-05-29-Mathematical-framework-4
-excerpt: 'Madrid, Spain.'
+excerpt: 'Authors: Rojas Ulloa, C. E., Chen, F., Tuninetti, V., Di Giovanni, A., Pensis, O., Duchene, L., & Habraken'
 date: 2024-05-29
-venue: 'European Mechanics of Materials Conference, Madrid, Spain. Authors: Rojas Ulloa, C. E., Chen, F., Tuninetti, V., Di Giovanni, A., Pensis, O., Duchene, L., & Habraken'
+venue: 'European Mechanics of Materials Conference, Madrid, Spain. '
 # paperurl: ''
 # citation: ''
 ---

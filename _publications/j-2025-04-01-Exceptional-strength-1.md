@@ -3,7 +3,7 @@ title: "Exceptional strength paired with increased cold cracking susceptibility 
 collection: publications
 category: manuscripts
 permalink: /publication/j-2025-04-01-Exceptional-strength-1
-excerpt: ''
+# excerpt: ''
 date: 2025-04-01
 venue: 'Journal of Materials Science & Technology'
 # slidesurl: ''

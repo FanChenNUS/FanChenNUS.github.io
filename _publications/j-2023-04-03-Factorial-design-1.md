@@ -3,7 +3,7 @@ title: "Factorial design analytics on effects of material parameter uncertaintie
 collection: publications
 category: manuscripts
 permalink: /publication/j-2023-04-03-Factorial-design-1
-excerpt: ''
+# excerpt: ''
 date: 2023-04-03
 venue: 'npj Computational Materials'
 # slidesurl: ''

@@ -3,7 +3,7 @@ title: "Acceleration of powder-bed-size thermal simulation considering scanning-
 collection: publications
 category: manuscripts
 permalink: /publication/j-2025-01-31-Acceleration-of-1
-excerpt: ''
+# excerpt: ''
 date: 2025-01-31
 venue: 'Journal of Manufacturing Processes'
 # slidesurl: ''

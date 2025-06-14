@@ -3,7 +3,7 @@ title: "Data-driven prognostic model for temperature field in additive manufactu
 collection: publications
 category: manuscripts
 permalink: /publication/j-2022-03-15-Data-driven-prognostic-1
-excerpt: ''
+# excerpt: ''
 date: 2022-03-15
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 # slidesurl: ''
