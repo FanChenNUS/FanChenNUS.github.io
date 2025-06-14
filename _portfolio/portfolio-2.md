@@ -4,7 +4,7 @@ title: "From 2022 to 2023"
 collection: portfolio
 ---
 
-Hybrid Autonomous Manufacturing, Moving from Evolution to Revolution (HAMMER) 
+Hybrid Autonomous Manufacturing, Moving from Evolution to Revolution ([HAMMER](https://hammer.osu.edu/events/2023/10/hammer-time-thrust-201-english-wheel-october-19-2023-zoom)) 
 ---
  -- corporation with N.C. A&T State University et al.
  
