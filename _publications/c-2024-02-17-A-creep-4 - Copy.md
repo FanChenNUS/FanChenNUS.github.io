@@ -6,6 +6,6 @@ permalink: /publication/c-2024-06-18-JAX-CPFEM-4
 excerpt: ''
 date: 2024-06-18
 venue: 'TMS Specialty Congress 2024'
-paperurl: ''
-citation: ''
+# paperurl: ''
+# citation: ''
 ---

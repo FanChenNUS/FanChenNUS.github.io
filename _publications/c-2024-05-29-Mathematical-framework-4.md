@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-05-29
 venue: 'European Mechanics of Materials Conference'
 # paperurl: ''
-citation: ''
+# citation: ''
 ---
 
 <iframe
