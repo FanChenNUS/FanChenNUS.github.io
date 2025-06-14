@@ -11,6 +11,16 @@ Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher 
 
 His technical strengths include advanced numerical simulation (ABAQUS, COMSOL, FLOW-3D), programming (Fortran, Python, MATLAB), and multi-scale modeling for process–structure–property relationships in manufacturing. He also has experience teaching mechanics and materials science at NUS and mentoring students on computational mechanics.
 
+
+MAJOR SKILLS
+====
+--------------------------------------------------------------------------------------------------------
+•	Chinese, English, French (A1, A1+, A2 level passed)
+
+•	Software: ABAQUS (User subroutines), COMSOL Multiphysics, FLOW 3D
+
+•	Programming languages: FORTRAN, Python, MATLAB
+
 Main Research Topics (published)
 ====
 --------------------------------------------------------------------------------------------------------

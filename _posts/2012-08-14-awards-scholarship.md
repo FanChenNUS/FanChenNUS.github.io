@@ -8,6 +8,15 @@
 #   - category2
 ---
 
+
+## Reviewer for Journals:
+2024 Additive Manufacturing 
+2024 Journal of Materials Processing Tech 
+2023 Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers 
+2022 Smart Manufacturing
+
+## Fundings, scholarship and awards
+
 ### 2024-2025
 Funded by European Union,  
  -in Urban and Environmental Engineering, University of Liege
@@ -30,3 +39,6 @@ Internship
 ### 2011-2015
 "2012 China National Scholarship",
  -in department of Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology
+
+
+
