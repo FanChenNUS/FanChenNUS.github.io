@@ -6,7 +6,7 @@ permalink: /publication/2024-05-29-Mathematical-framework-4
 excerpt: ''
 date: 2024-05-29
 venue: 'European Mechanics of Materials Conference'
-paperurl: ''
+# paperurl: ''
 citation: ''
 ---
 
