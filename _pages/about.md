@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research statement"
+title: "Dr. Fan Chen"
 author_profile: true
 redirect_from: 
   - /about/
