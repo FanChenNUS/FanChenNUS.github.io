@@ -8,8 +8,12 @@ venue: "Department of Mechanical Engineering, National University of Singapore"
 # location: "City, Country"
 ---
 
-2018-2022, Department of Mechanical Engineering, National University of Singapore
-------------------------------------------------------------------------------------
+2018-2022, Department of Mechanical Engineering, National University of Singapore:
+
  -ME1102 - Engineering Principles and Practice I
- -ME2112 - Strength of Materials 
+
+ -ME2112 - Strength of Materials
+
  -ME2115 - Mechanics of Machines: Vibration Lab
+
+---
