@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2020-11-01-High-fidelity-modelling-1
 excerpt: ''
 date: 2020-11-01
-venue: 'Journal 1'
+# venue: 'Journal 1'
 slidesurl: ''
 paperurl: 'http://FanChenNUS.github.io/files/paper1.pdf'
 citation: 'Chen, F., & Yan, W. (2020). High-fidelity modelling of thermal stress for additive manufacturing by linking thermal-fluid and mechanical models. Materials & Design, 196, 109185.'

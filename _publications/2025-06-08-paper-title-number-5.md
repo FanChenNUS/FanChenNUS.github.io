@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A creep survey: from creep mechanism to macroscopic and microscopic models."
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+permalink: /publication/2024-02-17-A-creep-4
+excerpt: ''
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'METALLIC MICROSTRUCTURES EUROPEAN LECTURES ONLINE'
+paperurl: ''
+citation: ''
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+At high temperature, metallic material creep is difficult to avoid. The understanding of the creep mechanisms helps metallurgists to design optimal alloy compositions and the prediction of a component life is a key input to manage safe maintenance and to define operational cost of any production line (solar plant parts, heat exchanger, any turbine parts loaded at high temperature…).
+
+[📥 Download slides (PPTX)]({{ site.baseurl }}/files/conference1.pdf)
