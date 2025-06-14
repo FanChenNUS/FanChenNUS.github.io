@@ -2,7 +2,7 @@
 title: "Data-driven prediction of keyhole features in metal additive manufacturing based on physics-based simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-11-01-Data-driven-prediction-1
+permalink: /publication/j-2020-11-01-Data-driven-prediction-1
 excerpt: ''
 date: 2023-06-16
 venue: 'Journal of Intelligent Manufacturing'

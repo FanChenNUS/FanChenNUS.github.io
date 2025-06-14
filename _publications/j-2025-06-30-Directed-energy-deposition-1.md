@@ -2,7 +2,7 @@
 title: "Directed energy deposition on sheet metal forming for reinforcement structures"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-30-Directed-energy-deposition-1
+permalink: /publication/j-2025-06-30-Directed-energy-deposition-1
 excerpt: ''
 date: 2025-06-30
 venue: 'Journal of Manufacturing Processes'

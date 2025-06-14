@@ -2,7 +2,7 @@
 title: "Factorial design analytics on effects of material parameter uncertainties in multiphysics modeling of additive manufacturing"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-04-03-Factorial-design-1
+permalink: /publication/j-2023-04-03-Factorial-design-1
 excerpt: ''
 date: 2023-04-03
 venue: 'npj Computational Materials'

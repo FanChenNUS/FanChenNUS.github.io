@@ -2,7 +2,7 @@
 title: "Data-driven prognostic model for temperature field in additive manufacturing based on the high-fidelity thermal-fluid flow simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-03-15-Data-driven-prognostic-1
+permalink: /publication/j-2022-03-15-Data-driven-prognostic-1
 excerpt: ''
 date: 2022-03-15
 venue: 'Computer Methods in Applied Mechanics and Engineering'

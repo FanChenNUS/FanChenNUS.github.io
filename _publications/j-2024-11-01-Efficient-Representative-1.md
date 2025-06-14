@@ -2,7 +2,7 @@
 title: "Efficient Representative Volume Element of a Matrix–Precipitate Microstructure—Application on AlSi10Mg Alloy"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-01-Efficient-Representative-1
+permalink: /publication/j-2024-11-01-Efficient-Representative-1
 excerpt: ''
 date: 2024-11-01
 venue: 'Metals'

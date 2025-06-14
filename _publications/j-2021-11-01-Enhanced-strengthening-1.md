@@ -2,7 +2,7 @@
 title: "Enhanced strengthening and hardening via self-stabilized dislocation network in additively manufactured metals"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-11-01-Enhanced-strengthening-1
+permalink: /publication/j-2021-11-01-Enhanced-strengthening-1
 excerpt: ''
 date: 2021-11-01
 venue: 'Materials Today'

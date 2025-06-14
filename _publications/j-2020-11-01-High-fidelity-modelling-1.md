@@ -2,7 +2,7 @@
 title: "High-fidelity modelling of thermal stress for additive manufacturing by linking thermal-fluid and mechanical models"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-11-01-High-fidelity-modelling-1
+permalink: /publication/j-2020-11-01-High-fidelity-modelling-1
 excerpt: ''
 date: 2020-11-01
 venue: 'Materials & Design'

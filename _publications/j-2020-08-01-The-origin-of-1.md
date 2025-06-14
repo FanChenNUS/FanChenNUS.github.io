@@ -2,7 +2,7 @@
 title: "The origin of high-density dislocations in additively manufactured metals"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-08-01-The-origin-of-1
+permalink: /publication/j-2020-08-01-The-origin-of-1
 excerpt: ''
 date: 2020-08-01
 venue: 'Materials Research Letters'

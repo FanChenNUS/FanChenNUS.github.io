@@ -2,7 +2,7 @@
 title: "On the feasibility of an integrated English wheel system"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-11-01-On-the-feasibility-1
+permalink: /publication/j-2020-11-01-On-the-feasibility-1
 excerpt: ''
 date: 2024-06-01
 venue: 'Journal of Manufacturing Systems'

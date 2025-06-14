@@ -2,7 +2,7 @@
 title: "Acceleration of powder-bed-size thermal simulation considering scanning-path-scale through a pseudo-layer-wise equivalent heat flux model"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-31-Acceleration-of-1
+permalink: /publication/j-2025-01-31-Acceleration-of-1
 excerpt: ''
 date: 2025-01-31
 venue: 'Journal of Manufacturing Processes'

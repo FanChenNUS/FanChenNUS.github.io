@@ -2,7 +2,7 @@
 title: "Exceptional strength paired with increased cold cracking susceptibility in laser powder bed fusion of a Mg-RE alloy"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-04-01-Exceptional-strength-1
+permalink: /publication/j-2025-04-01-Exceptional-strength-1
 excerpt: ''
 date: 2025-04-01
 venue: 'Journal of Materials Science & Technology'

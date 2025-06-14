@@ -1,0 +1,11 @@
+---
+title: "JAX-CPFEM: A differentiable crystal plasticity finite element platform accelerated by efficient GPU-computing"
+collection: publications
+category: conferences
+permalink: /publication/c-2024-06-18-JAX-CPFEM-4
+excerpt: ''
+date: 2024-06-18
+venue: 'TMS Specialty Congress 2024'
+paperurl: ''
+citation: ''
+---

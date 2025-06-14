@@ -2,7 +2,7 @@
 title: "Crystal plasticity model of residual stress in additive manufacturing using the element elimination and reactivation method"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-11-26-Crystal-plasticity-1
+permalink: /publication/j-2021-11-26-Crystal-plasticity-1
 excerpt: ''
 date: 2021-11-26
 venue: 'Computational Mechanics'
