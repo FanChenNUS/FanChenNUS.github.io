@@ -4,8 +4,8 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/2022-08-01-spring-teaching-1
 venue: "Department of Mechanical Engineering, National University of Singapore"
-date: 2022-08-01
-location: "City, Country"
+# date: 2022-08-01
+# location: "City, Country"
 ---
 
 2018-2022, Department of Mechanical Engineering, National University of Singapore
