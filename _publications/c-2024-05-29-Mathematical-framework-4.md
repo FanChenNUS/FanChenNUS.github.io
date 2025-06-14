@@ -5,12 +5,10 @@ category: conferences
 permalink: /publication/c-2024-05-29-Mathematical-framework-4
 excerpt: 'Madrid, Spain.'
 date: 2024-05-29
-venue: 'European Mechanics of Materials Conference, Madrid, Spain.'
+venue: 'European Mechanics of Materials Conference, Madrid, Spain. Authors: Rojas Ulloa, C. E., Chen, F., Tuninetti, V., Di Giovanni, A., Pensis, O., Duchene, L., & Habraken'
 # paperurl: ''
 # citation: ''
 ---
-
-Authors: Rojas Ulloa, C. E., Chen, F., Tuninetti, V., Di Giovanni, A., Pensis, O., Duchene, L., & Habraken
 
 <iframe
   src="https://orbi.uliege.be/bitstream/2268/319572/1/CRojasU_EMMC19poster_FeLiNa.pdf"
