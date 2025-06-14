@@ -41,4 +41,7 @@ Internship
  -in department of Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology
 
 
+## PATENTS & DISCLOSOURS
 
+### 2020
+A Novel Inherent Strain Modelling Tool to Predict Thermal Stress and Distortion in Additive Manufacturing. ILO Ref: 2020-156. Yan Wentao, Fan Chen.
