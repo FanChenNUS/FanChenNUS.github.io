@@ -3,7 +3,7 @@ title: "Efficient Representative Volume Element of a Matrix–Precipitate Micros
 collection: publications
 category: manuscripts
 permalink: /publication/j-2024-11-01-Efficient-Representative-1
-excerpt: 'Representative Volume Element; 2.5D numerical model; AlSi10Mg; additive manufacturing; microstructure; hardening behavior'
+excerpt: 'Representative Volume Element; 2.5D numerical model; AlSi10Mg; Additive manufacturing; microstructure; Hardening behavior'
 date: 2024-11-01
 venue: 'Metals'
 # slidesurl: ''

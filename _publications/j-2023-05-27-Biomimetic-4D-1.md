@@ -3,7 +3,7 @@ title: "Biomimetic 4D Printing Catapult: From Biological Prototype to Practical 
 collection: publications
 category: manuscripts
 permalink: /publication/j-2023-05-27-Biomimetic-4D-1
-excerpt: '4D printing; biomimetics; rapid actuation; smart materials; shape transformation; additive manufacturing; functional structures'
+excerpt: '4D printing; Biomimetics; Rapid actuation; Smart materials; Shape transformation; Additive manufacturing; Functional structures'
 date: 2023-05-27
 venue: 'Advanced Functional Materials'
 # slidesurl: ''
