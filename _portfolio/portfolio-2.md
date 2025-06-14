@@ -1,12 +1,13 @@
 ---
 title: "From 2022 to 2023"
-excerpt: "in Northwestern University, USA"
+# excerpt: "in Northwestern University, USA"
 collection: portfolio
 ---
 
 Hybrid Autonomous Manufacturing, Moving from Evolution to Revolution (HAMMER) 
 ---
  -- corporation with N.C. A&T State University et al.
+ 
 High-fidelity English wheel simulation: distortion analysis of the sheet metal under rolling of two wheel of different size and curvature.
 
 Micro-Casting of Titanium Alloy in Self-boiling Molds

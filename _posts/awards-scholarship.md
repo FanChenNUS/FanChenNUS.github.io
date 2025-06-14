@@ -1,5 +1,5 @@
 ---
-title: "Blog Post number 1"
+title: "awards-scholarship"
 # date: 2012-08-14
 permalink: /posts/awards-scholarship
 tags:

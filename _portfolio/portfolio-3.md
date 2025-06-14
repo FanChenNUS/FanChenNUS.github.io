@@ -1,12 +1,13 @@
 ---
-title: "From 2024 to 2025"
-excerpt: "in University of Liege, European Union"
+title: "From 2024 to 2025 (click for details)"
+# excerpt: "in University of Liege, European Union"
 collection: portfolio
 ---
 
 High-fidelity coupled CFD-FEM simulation on DED and LPBF
 ---
  -- corporation with ANSYS
+
 Linked the high-fidelity molten pool dynamics model with the finite element solver for thermal stress simulation.
 
 High-density dislocations in additively manufactured metals

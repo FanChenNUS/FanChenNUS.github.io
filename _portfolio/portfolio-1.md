@@ -1,12 +1,13 @@
 ---
 title: "From 2018 to 2022"
-excerpt: "in National University of Singapore, Singapore"
+# excerpt: "in National University of Singapore, Singapore"
 collection: portfolio
 ---
 
 High-fidelity coupled CFD-FEM simulation on DED and LPBF
 ---
  -- corporation with ANSYS
+
 Linked the high-fidelity molten pool dynamics model with the finite element solver for thermal stress simulation.
 
 High-density dislocations in additively manufactured metals
