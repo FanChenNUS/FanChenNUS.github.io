@@ -15,13 +15,6 @@ Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher 
 
 His technical strengths include advanced numerical simulation (ABAQUS, COMSOL, FLOW-3D), programming (Fortran, Python, MATLAB), and multi-scale modeling for process–structure–property relationships in manufacturing. He also has experience teaching mechanics and materials science at NUS and mentoring students on computational mechanics.
 
-MAJOR SKILLS
---------------------------------------------------------------------------------------------------------
-•	Chinese, English, French (A1, A1+, A2 level passed)
-
-•	Software: ABAQUS (User subroutines), COMSOL Multiphysics, FLOW 3D
-
-•	Programming languages: FORTRAN, Python, MATLAB
 
 Main Research Topics (published)
 ====
@@ -29,64 +22,64 @@ Main Research Topics (published)
 
 • Coupled CFD-FEM modeling for AM 
 
-[Fan Chen... - Materials & Design, 2020](https://doi.org/10.1016/j.matdes.2020.109185)
 <p align="center">
   <img src="/images/CFD-FEM1.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
+[Fan Chen... - Materials & Design, 2020](https://doi.org/10.1016/j.matdes.2020.109185)
 
 --------------------------------------------------------------------------------------------------------
 
 • Origin of dislocation density in AM 
 
-[G Wang,...,Fan Chen... - Materials Research Letters, 2020](https://doi.org/10.1080/21663831.2020.1751739)
 <p align="center">
   <img src="/images/CFD-FEM3.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
+[G Wang,...,Fan Chen... - Materials Research Letters, 2020](https://doi.org/10.1080/21663831.2020.1751739)
 
 --------------------------------------------------------------------------------------------------------
 
 • 4D metal-based printing 
 
-[Wu, W.,...,Fan Chen... - Advanced Science 2023](https://doi.org/10.1002/advs.202206486)
 <p align="center">
   <img src="/images/4Dprinting.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
+[Wu, W.,...,Fan Chen... - Advanced Science 2023](https://doi.org/10.1002/advs.202206486)
 
 --------------------------------------------------------------------------------------------------------
 
 • Data-driven temperature field prediction with rational physic constraints 
 
-[Fan Chen... - CMAME, 2022](https://doi.org/10.1016/j.cma.2022.114652)
 <p align="center">
   <img src="/images/data-driven.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
+[Fan Chen... - CMAME, 2022](https://doi.org/10.1016/j.cma.2022.114652)
 
 --------------------------------------------------------------------------------------------------------
 
 • Heat accumulation analysis for samples clusters (over 100 AM samples) 
 
-[Fan Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2024.12.0579)
 <p align="center">
   <img src="/images/equivalent heat flux attribution.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
+[Fan Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2024.12.0579)
 
 --------------------------------------------------------------------------------------------------------
 
 • Incremetnal sheet metal forming - English wheel 
 
-[D Suarez, Fan Chen...- Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2024.04.022)
 <p align="center">
   <img src="/images/English wheel.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
+[D Suarez, Fan Chen...- Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2024.04.022)
 
 --------------------------------------------------------------------------------------------------------
 
 • Incremetnal sheet metal forming - DED on sheet metal
 
-[Fan Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2025.03.120)
 <p align="center">
   <img src="/images/DED on sheet metal.gif" alt="Poster description" style="max-width: 100%; height: auto;">
 </p>
+[Fan Chen... - Journal of Manufacturing Processes, 2025](https://doi.org/10.1016/j.jmapro.2025.03.120)
 
 --------------------------------------------------------------------------------------------------------
 
