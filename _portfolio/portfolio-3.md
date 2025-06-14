@@ -1,5 +1,5 @@
 ---
-title: "From 2024 to 2025 (click for details)"
+title: "From 2024 to 2025"
 # excerpt: "in University of Liege, European Union"
 collection: portfolio
 ---
