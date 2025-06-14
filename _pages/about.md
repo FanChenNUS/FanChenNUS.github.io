@@ -1,37 +1,11 @@
 ---
 permalink: /
-title: "Research interest"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Academic experience
-====
-University of Liege
-•	2024-2025: Research Scientist, Urban and Environmental Engineering (Funded by European Union),
-Supervisor- Anne Marie Habraken: anne.habraken@uliege.be
----
-
-Northwestern University
----
-•	2022-2023: Postdoc, McCormick School of Engineering, AMPL (USA Vannevar Bush Faculty Fellowship award), Supervisor- Jian Cao: jcao@northwestern.edu
-
-National University of Singapore
----
-•	2018-2022: Ph.D., Mechanical Engineering (Singapore research scholarship), Supervisor- Wentao Yan: mpeyanw@nus.edu.sg
-
-Huazhong University of Science & Technology 
----
-•	2015-2018: Master of Engineering, Design & Manufacture of Ships and Marine Structure (China Graduate Scholarship)
-
-•	2011-2015: Bachelor of Engineering, Naval Architecture & Ocean Engineering (2012 China National Scholarship)
----
-
-Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher with cross-disciplinary expertise in additive manufacturing, AI-integrated modeling, and high-performance simulation. Currently a Research Scientist at the University of Liège funded by the European Union, he leads work on AI-powered characterization and modeling for green steel technology in collaboration with Fraunhofer, IWM, and IMDEA. His recent work involves implementing visco-plasticity laws in Lagamine and developing creep models for metallic systems.
-
-His technical strengths include advanced numerical simulation (ABAQUS, COMSOL, FLOW-3D), programming (Fortran, Python, MATLAB), and multi-scale modeling for process–structure–property relationships in manufacturing. He also has experience teaching mechanics and materials science at NUS and mentoring students on computational mechanics.
 
 Main Research Topics (published)
 ====
