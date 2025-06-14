@@ -1,5 +1,5 @@
 ---
-# title: "Since 2018"
+title: ""
 # date: 2012-08-14
 # permalink: /posts/2012-08-14-awards-scholarship
 # tags:
@@ -10,6 +10,7 @@
 
 
 ## Reviewer for Journals:
+
 2024 Additive Manufacturing 
 
 2024 Journal of Materials Processing Tech
@@ -17,6 +18,16 @@
 2023 Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers 
 
 2022 Smart Manufacturing
+
+
+## MAJOR SKILLS
+
+Chinese, English, French (A1, A1+, A2 level passed)
+
+Software: ABAQUS (User subroutines), COMSOL Multiphysics, FLOW 3D
+
+Programming languages: FORTRAN, Python, MATLAB
+
 
 ## Fundings, scholarship and awards
 
