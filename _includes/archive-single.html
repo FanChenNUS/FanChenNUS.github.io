@@ -57,14 +57,14 @@
         {% endif %} -->
 
         {% if page.collection == 'publications' %}
-        {% if post.excerpt %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-        {% endif %}
-        {% else %}
-        <div class="archive__item-content" itemprop="description">
-          {{ post.content }}
-          </div>
+          {% if post.excerpt %}
+             <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
           {% endif %}
+        {% else %}
+          <div class="archive__item-content" itemprop="description">
+             {{ post.content }}
+          </div>
+        {% endif %}
 
     
     
