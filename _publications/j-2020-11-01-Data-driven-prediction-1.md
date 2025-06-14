@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-06-16
 venue: 'Journal of Intelligent Manufacturing'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1007/s10845-023-02157-6'
 citation: 'Xie, Z., Chen, F., Wang, L., Ge, W., & Yan, W. (2024). Data-driven prediction of keyhole features in metal additive manufacturing based on physics-based simulation. Journal of Intelligent Manufacturing, 35(5), 2313-2326.'
 ---
 

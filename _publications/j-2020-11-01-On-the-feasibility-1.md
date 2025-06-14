@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-06-01
 venue: 'Journal of Manufacturing Systems'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.jmsy.2024.04.022'
 citation: 'Suarez, D., Chen, F., Kang, P., Forbes, B., Gao, M., Ineza, O., ... & Cao, J. (2024). On the feasibility of an integrated English wheel system. Journal of Manufacturing Systems, 74, 665-675.'
 ---
 

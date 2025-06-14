@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-04-01
 venue: 'Journal of Materials Science & Technology'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.jmst.2024.07.005'
 citation: 'Deng, Q., Chen, F., Wang, L., Liu, Z., Wu, Q., Chang, Z., ... & Ding, W. (2025). Exceptional strength paired with increased cold cracking susceptibility in laser powder bed fusion of a Mg-RE alloy. Journal of Materials Science & Technology, 213, 300-314.'
 ---
 

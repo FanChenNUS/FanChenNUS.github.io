@@ -7,7 +7,7 @@ excerpt: ''
 date: 2020-08-01
 venue: 'Materials Research Letters'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1080/21663831.2020.1751739'
 citation: 'Wang, G., Ouyang, H., Fan, C., Guo, Q., Li, Z., Yan, W., & Li, Z. (2020). The origin of high-density dislocations in additively manufactured metals. Materials Research Letters, 8(8), 283–290.'
 ---
 

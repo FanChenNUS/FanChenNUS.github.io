@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-11-01
 venue: 'Metals'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.3390/met14111244'
 citation: 'Bouffioux, C., Papeleux, L., Calvat, M., Tran, H. S., Chen, F., Ponthot, J. P., ... & Habraken, A. M. (2024). Efficient Representative Volume Element of a Matrix–Precipitate Microstructure—Application on AlSi10Mg Alloy. Metals, 14(11), 1244.'
 ---
 

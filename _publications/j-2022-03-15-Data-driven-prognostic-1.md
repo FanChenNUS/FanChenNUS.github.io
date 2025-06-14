@@ -7,7 +7,7 @@ excerpt: ''
 date: 2022-03-15
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.cma.2022.114652'
 citation: 'Chen, F., Yang, M., & Yan, W. (2022). Data-driven prognostic model for temperature field in additive manufacturing based on the high-fidelity thermal-fluid flow simulation. Computer Methods in Applied Mechanics and Engineering, 392, 114652.'
 ---
 

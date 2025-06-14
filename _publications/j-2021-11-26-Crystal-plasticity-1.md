@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-11-26
 venue: 'Computational Mechanics'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1007/s00466-021-02116-z'
 citation: 'Grilli, N., Hu, D., Yushu, D. et al. Crystal plasticity model of residual stress in additive manufacturing using the element elimination and reactivation method. Comput Mech 69, 825–845 (2022).'
 ---
 

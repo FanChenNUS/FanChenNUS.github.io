@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-04-03
 venue: 'npj Computational Materials'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1038/s41524-023-01004-9'
 citation: 'Giam, A., Chen, F., Cai, J., & Yan, W. (2023). Factorial design analytics on effects of material parameter uncertainties in multiphysics modeling of additive manufacturing. npj Computational Materials, 9(1), 51.'
 ---
 

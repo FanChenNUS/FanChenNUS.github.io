@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-05-27
 venue: 'Advanced Functional Materials'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1002/adfm.202301286'
 citation: 'Li, G., Yang, S., Wu, W., Chen, F., Li, X., Tian, Q., ... & Ren, L. (2023). Biomimetic 4D printing catapult: from biological prototype to practical implementation. Advanced Functional Materials, 33(32), 2301286.'
 ---
 

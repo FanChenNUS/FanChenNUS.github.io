@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-11-01
 venue: 'Materials Today'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.mattod.2021.06.002'
 citation: 'Li, Z., Cui, Y., Yan, W., Zhang, D., Fang, Y., Chen, Y., ... & Wang, Y. M. (2021). Enhanced strengthening and hardening via self-stabilized dislocation network in additively manufactured metals. Materials Today, 50, 79-88.'
 ---
 

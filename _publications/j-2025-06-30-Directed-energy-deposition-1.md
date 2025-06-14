@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-06-30
 venue: 'Journal of Manufacturing Processes'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.jmapro.2025.03.120'
 citation: 'Chen, F., Zha, R., Jeong, J., Liao, S., & Cao, J. (2025). Directed energy deposition on sheet metal forming for reinforcement structures. Journal of Manufacturing Processes, 144, 339-349.'
 ---
 

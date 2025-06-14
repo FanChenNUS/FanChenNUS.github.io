@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-01-31
 venue: 'Journal of Manufacturing Processes'
 # slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.jmapro.2024.12.057'
 citation: 'Chen, F., Kozjek, D., Porter, C., & Cao, J. (2025). Acceleration of powder-bed-size thermal simulation considering scanning-path-scale through a pseudo-layer-wise equivalent heat flux model. Journal of Manufacturing Processes, 134, 394-409.'
 ---
 
