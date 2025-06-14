@@ -1,6 +1,6 @@
 ---
-title: "From 2018 to 2022"
-excerpt: "in National University of Singapore, Singapore"
+title: "From 2024 to 2025"
+excerpt: "in University of Liege, European Union"
 collection: portfolio
 ---
 
