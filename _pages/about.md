@@ -17,7 +17,7 @@ ssh-add ~/.ssh/id_ed25519
 ssh-add -l
  -->
 
-Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher with cross-disciplinary expertise in additive manufacturing, AI-integrated modeling, and high-performance simulation. His recent work involves implementing visco-plasticity laws in Lagamine and developing creep models for metallic systems. His technical strengths include advanced numerical simulation and multi-scale modeling for process–structure–property relationships in manufacturing. He also has experience teaching mechanics and materials science at NUS and mentoring students on computational mechanics.
+Dr. Fan Chen is a computational mechanics and advanced manufacturing researcher with cross-disciplinary expertise in additive manufacturing, AI-integrated modeling, and high-performance simulation. His recent work involves implementing visco-plasticity laws in Lagamine and developing creep models for metallic systems. His technical strengths include advanced numerical simulation and multi-scale modeling for process–structure–property relationships in manufacturing. He also has teaching assistance experience in mechanics and materials science at NUS and mentoring students on computational mechanics in different institutions.
 
 Main Research Topics (published)
 ====
