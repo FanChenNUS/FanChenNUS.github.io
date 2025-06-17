@@ -4,7 +4,7 @@ title: "From 2024 to 2025"
 collection: portfolio
 ---
 
-AID4Greenest - AI powered characterization and modelling for green steel technology
+([AID4Greenest](https://aid4greenest.eu/)) - AI powered characterization and modelling for green steel technology
 ---
 Funded by European Union
 
