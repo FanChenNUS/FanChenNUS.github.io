@@ -6,7 +6,7 @@ collection: portfolio
 
 Hybrid Autonomous Manufacturing, Moving from Evolution to Revolution ([HAMMER](https://hammer.osu.edu/events/2023/10/hammer-time-thrust-201-english-wheel-october-19-2023-zoom)) 
 ---
- -- corporation with N.C. A&T State University et al.
+ -- corporation with The OHIO State University and so on.
  
 High-fidelity English wheel simulation: distortion analysis of the sheet metal under rolling of two wheel of different size and curvature.
 
