@@ -10,10 +10,10 @@ permalink: /teaching/2022-08-01-spring-teaching-1
 
 2018-2022, Department of Mechanical Engineering, National University of Singapore:
 
- -Paper, software and coding supervision assistance for NUS Ph.D, Master and undergraduate strudents
+ -Paper, software and coding supervision assistance for NUS Ph.D, Master and undergraduate students
 
 ---
 
 2022-2023, Department of Mechanical Engineering, Northwestern University, USA:
 
- -Software and coding supervision assistance for Ph.D strudents
+ -Software and coding supervision assistance for Ph.D students
