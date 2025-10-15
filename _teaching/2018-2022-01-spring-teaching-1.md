@@ -8,7 +8,7 @@ venue: "Department of Mechanical Engineering, National University of Singapore"
 # location: "City, Country"
 ---
 
-2018-2022, Department of Mechanical Engineering, National University of Singapore:
+2018-2022, Department of Mechanical Engineering, National University of Singapore (450 hours of teaching task):
 
  -ME1102 - Engineering Principles and Practice I
 

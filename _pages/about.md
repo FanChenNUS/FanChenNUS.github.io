@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/Featured_picture.jpg" alt="Poster description" style="max-width: 50%; height: auto;">
+  <img src="/images/Featured_picture1.jpg" alt="Poster description" style="max-width: 50%; height: auto;">
 </p>
 
 <!-- cd /d/Github/FanChenNUS.github.io

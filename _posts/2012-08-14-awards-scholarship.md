@@ -10,6 +10,10 @@ tags:
 
 ## Reviewer for Journals
 
+2025  Additive Manufacturing Letters
+
+2025  Journal of Manufacturing and Materials Processing (Guest Editor)
+
 2024 Additive Manufacturing
 
 2024 Journal of Materials Processing Tech
